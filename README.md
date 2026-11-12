@@ -1,29 +1,21 @@
+<a href="https://raw.githack.com/SeungbeenYoo/AnBu_Hackathon/main/app/index.html">
+  <img src="docs/screenshots/app-hero.png" alt="안부 앱 실행하기 — 이미지를 누르면 앱이 열립니다" width="100%">
+</a>
+
 <p align="center">
-  <img src="assets/anbu-logo.png" alt="안부 로고" width="260">
+  <a href="https://raw.githack.com/SeungbeenYoo/AnBu_Hackathon/main/app/index.html"><b>▶ 앱 바로 실행하기</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://raw.githack.com/SeungbeenYoo/AnBu_Hackathon/main/landing/index.html"><b>발표 랜딩 보기</b></a>
 </p>
 
-<h3 align="center">도장 찍기 전, 계약서의 안부를 묻다</h3>
-
 <p align="center">
-처음 원룸을 계약하는 대학생이 <b>계약서 사진 한 장</b>으로<br>
-1년 뒤 보증금을 지키는 앱
-</p>
-
-<p align="center">
+처음 원룸을 계약하는 대학생이 <b>계약서 사진 한 장</b>으로 1년 뒤 보증금을 지키는 앱<br>
 2026 빌드 투게더 AI 해커톤 · 팀 <b>5가이즈</b>
 </p>
 
+> 이미지를 누르면 설치 없이 브라우저에서 바로 앱이 열려요. 휴대폰에서는 「홈 화면에 추가」하면 앱처럼 쓸 수 있어요.
+
 ---
-
-## 바로 보기
-
-| | 링크 |
-|---|---|
-| 앱 (배포 주소) | `당일 배포 후 주소 입력` |
-| 발표 랜딩 | `당일 배포 후 주소 입력` |
-| 이 저장소에서 바로 열기 | [`app/index.html`](app/index.html) · [`landing/index.html`](landing/index.html) |
-
-> 두 파일 모두 서버 없이 브라우저에서 바로 열려요. GitHub Pages를 켜면 `/app/`과 `/landing/` 주소로 공개할 수 있어요.
 
 <p align="center">
   <img src="docs/screenshots/app-flow.png" alt="안부 앱 핵심 흐름: 읽은 내용 확인, 위험 판정, 해결 방법, 중개사 질문" width="100%">
