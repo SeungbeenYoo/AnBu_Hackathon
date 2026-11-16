@@ -1,11 +1,11 @@
-<a href="https://raw.githack.com/SeungbeenYoo/AnBu_Hackathon/main/app/index.html">
+<a href="https://seungbeenyoo.github.io/AnBu_Hackathon/app/">
   <img src="docs/screenshots/app-hero.png" alt="안부 앱 실행하기 — 이미지를 누르면 앱이 열립니다" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://raw.githack.com/SeungbeenYoo/AnBu_Hackathon/main/app/index.html"><b>▶ 앱 바로 실행하기</b></a>
+  <a href="https://seungbeenyoo.github.io/AnBu_Hackathon/app/"><b>▶ 앱 바로 실행하기</b></a>
   &nbsp;·&nbsp;
-  <a href="https://raw.githack.com/SeungbeenYoo/AnBu_Hackathon/main/landing/index.html"><b>발표 랜딩 보기</b></a>
+  <a href="https://seungbeenyoo.github.io/AnBu_Hackathon/landing/"><b>발표 랜딩 보기</b></a>
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@ open landing/index.html
 ```
 anbu/
 ├── app/index.html            # 안부 앱 (단일 파일, 샘플 이미지 내장)
-├── landing/index.html        # 발표 랜딩 (제1조~제8조, 발표 모드)
+├── landing/index.html        # 발표 랜딩 (표지~07 끝인사, 발표 모드)
 ├── data/
 │   ├── anbu-data.xlsx        # 당일 개발용 데이터 묶음 (8개 시트)
 │   ├── rules.csv             # 위험 조항 기준표
